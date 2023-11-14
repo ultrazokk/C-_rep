@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\examples01\example005_if\bin\Debug\net8.0\example005_if.exe
+C:\Users\Igor\Desktop\examples01\example005_if\bin\Debug\net8.0\example005_if.deps.json
+C:\Users\Igor\Desktop\examples01\example005_if\bin\Debug\net8.0\example005_if.runtimeconfig.json
+C:\Users\Igor\Desktop\examples01\example005_if\bin\Debug\net8.0\example005_if.dll
+C:\Users\Igor\Desktop\examples01\example005_if\bin\Debug\net8.0\example005_if.pdb
+C:\Users\Igor\Desktop\examples01\example005_if\obj\Debug\net8.0\example005_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\examples01\example005_if\obj\Debug\net8.0\example005_if.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\examples01\example005_if\obj\Debug\net8.0\example005_if.AssemblyInfo.cs
+C:\Users\Igor\Desktop\examples01\example005_if\obj\Debug\net8.0\example005_if.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\examples01\example005_if\obj\Debug\net8.0\example005_if.sourcelink.json
+C:\Users\Igor\Desktop\examples01\example005_if\obj\Debug\net8.0\example005_if.dll
+C:\Users\Igor\Desktop\examples01\example005_if\obj\Debug\net8.0\refint\example005_if.dll
+C:\Users\Igor\Desktop\examples01\example005_if\obj\Debug\net8.0\example005_if.pdb
+C:\Users\Igor\Desktop\examples01\example005_if\obj\Debug\net8.0\example005_if.genruntimeconfig.cache
+C:\Users\Igor\Desktop\examples01\example005_if\obj\Debug\net8.0\ref\example005_if.dll
